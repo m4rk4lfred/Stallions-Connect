@@ -8,6 +8,7 @@ Overview
 
 Core Features
 The platform is structured around three core pillars, each accessible from a persistent sidebar.
+
 🌐 1. Global Hub
 A university-wide communication center that keeps the entire MMSU community — across all colleges and departments — connected.
 
