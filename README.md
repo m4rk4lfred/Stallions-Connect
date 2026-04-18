@@ -17,19 +17,16 @@ Administrators can configure channels as Announcement Only — restricting posti
 Ensures important communications are never buried under unrelated messages.
 
 📚 2. My Classes
-Dedicated academic workspaces organized by subject, available to students across all colleges and programs.
+Dedicated academic workspaces tailored to the student's own college or department. A CBEA student sees only CBEA-related subject rooms; a CCS student sees only CCS subjects — and so on.
 
-Each subject has its own named channel (e.g., #automata-theory, #data-structures, #operating-systems).
+Each subject has its own named channel scoped to the student's department (e.g., a CBEA student sees #financial-accounting, #business-law, #macroeconomics).
 Students and instructors collaborate, ask questions, and discuss coursework in a structured, subject-scoped environment.
 Keeps academic discourse separated and easy to navigate by semester and course.
 
 🗂️ 3. Learning Materials
-A subject-indexed file repository for all course-related documents.
+A department-scoped file repository where students only see materials relevant to their own college. A CBEA student sees only CBEA course documents; a CCIS student sees only CCIS materials — keeping the repository clean and focused.
 
-Documents and resources are categorized by subject for fast, intuitive access.
-Clicking a subject opens a detailed view listing all uploaded materials — including lecture notes, references, and the official class syllabus.
-Eliminates the need to search through chat history to retrieve shared files.
-Documents and resources are categorized by subject for fast, intuitive access.
+Documents and resources are categorized by subject within the student's department for fast, intuitive access.
 Clicking a subject opens a detailed view listing all uploaded materials — including lecture notes, references, and the official class syllabus.
 Eliminates the need to search through chat history to retrieve shared files.
 
