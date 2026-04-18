@@ -1,4 +1,4 @@
-<img width="706" height="505" alt="image" src="https://github.com/user-attachments/assets/8eaa49e3-40e2-4a47-92ed-b1c5d32ddf8b" /># Stallions-Connect
+# Stallions-Connect
 Stallions-Connect is a secure, structured educational chat and collaboration platform designed to replace chaotic messaging apps with an organized digital campus for all students and faculty at Mariano Marcos State University (MMSU).
 
 Overview
@@ -35,7 +35,8 @@ UI / Screenshots
 <img width="765" height="546" alt="image" src="https://github.com/user-attachments/assets/a4966a79-56df-4bc3-bcad-62be1358c4e0" />
 <img width="836" height="596" alt="image" src="https://github.com/user-attachments/assets/8590b15a-37ab-48b8-9245-222af4a12d98" />
 <img width="709" height="500" alt="image" src="https://github.com/user-attachments/assets/930a92b5-a0b4-43da-93b8-24748f71fcf5" />
-<img width="706" height="505" alt="image" src="https://github.com/user-attachments/assets/34b9e4b9-b8e6-4e02-b31a-d650e33fab45" />
+<img width="553" height="398" alt="image" src="https://github.com/user-attachments/assets/308ff0d5-1851-40e5-a9b4-aa8d76ff8600" />
+
 
 
 
