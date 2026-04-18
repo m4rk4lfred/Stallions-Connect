@@ -1,20 +1,22 @@
 # Stallions-Connect
-Stallions-Connect is a secure, structured educational chat and collaboration platform designed to replace chaotic messaging apps with an organized digital campus for all students and faculty at Mariano Marcos State University (MMSU).
+Stallions-Connect
+
+A secure, structured educational chat and collaboration platform designed to replace chaotic messaging apps with an organized digital campus for all students and faculty at Mariano Marcos State University (MMSU).
 
 Overview
-[Ano maganda na name:)] is a purpose-built digital campus designed to replace fragmented, chaotic general-purpose messaging apps with a focused academic environment. It provides CS students and faculty with organized communication channels, subject-specific workspaces, and a centralized file repository — all within a single, cohesive platform.
+[Ano maganda na name :)] is a purpose-built digital campus designed to replace fragmented, chaotic general-purpose messaging apps with a focused academic environment. It provides students and faculty across all colleges with organized communication channels, subject-specific workspaces, and a centralized file repository — all within a single, cohesive platform.
 
 Core Features
 The platform is structured around three core pillars, each accessible from a persistent sidebar.
 🌐 1. Global Hub
-A university-wide communication center that keeps the entire MMSU CS community connected.
+A university-wide communication center that keeps the entire MMSU community — across all colleges and departments — connected.
 
 Hosts institution-level announcements, events, and general discussions.
 Administrators can configure channels as Announcement Only — restricting posting to faculty and staff while students retain read access — or as standard chat for open discussion.
 Ensures important communications are never buried under unrelated messages.
 
 📚 2. My Classes
-Dedicated academic workspaces organized strictly by Computer Science subject.
+Dedicated academic workspaces organized by subject, available to students across all colleges and programs.
 
 Each subject has its own named channel (e.g., #automata-theory, #data-structures, #operating-systems).
 Students and instructors collaborate, ask questions, and discuss coursework in a structured, subject-scoped environment.
@@ -23,6 +25,9 @@ Keeps academic discourse separated and easy to navigate by semester and course.
 🗂️ 3. Learning Materials
 A subject-indexed file repository for all course-related documents.
 
+Documents and resources are categorized by subject for fast, intuitive access.
+Clicking a subject opens a detailed view listing all uploaded materials — including lecture notes, references, and the official class syllabus.
+Eliminates the need to search through chat history to retrieve shared files.
 Documents and resources are categorized by subject for fast, intuitive access.
 Clicking a subject opens a detailed view listing all uploaded materials — including lecture notes, references, and the official class syllabus.
 Eliminates the need to search through chat history to retrieve shared files.
